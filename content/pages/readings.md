@@ -31,17 +31,17 @@ Introduction to water and sanitation development
 Basic concepts, water rich / water poor, and pictoral tour of global water and sanitation
 {{< tdclose >}}{{< tdopen >}}
 
-[Millennium Development Goals](http://www.worldbank.org/mdgs/), The World Bank Group.
+{{% resource_link "ab34a944-3347-466c-a936-d0e3c86b1ffb" "Millennium Development Goals" %}}, The World Bank Group.
 
-United Nations Development Programme. [*Human Development Report 2006 — Beyond Scarcity: Power, Poverty and the Global Water Crisis*](http://hdr.undp.org/en/reports/global/hdr2006/). New York, NY: United Nations Development Programme, 2006, chapter 1. ISBN: 9780230500587.
+United Nations Development Programme. {{% resource_link "db88e383-2388-4a94-bedf-f61fc440f576" "*Human Development Report 2006 — Beyond Scarcity: Power, Poverty and the Global Water Crisis*" %}}. New York, NY: United Nations Development Programme, 2006, chapter 1. ISBN: 9780230500587.
 
-World Health Organization and UNICEF. *Meeting the MDG Drinking Water and Sanitation Target: A Mid-term Assessment of Progress*. New York, NY: World Health Organization and United Nations Children's Fund, 2004. ISBN: 9789241562782. ([PDF - 1.8 MB](https://iris.who.int/bitstream/handle/10665/43021/9241562781.pdf?sequence=1&isAllowed=y))
+World Health Organization and UNICEF. *Meeting the MDG Drinking Water and Sanitation Target: A Mid-term Assessment of Progress*. New York, NY: World Health Organization and United Nations Children's Fund, 2004. ISBN: 9789241562782. ({{% resource_link "34be22a0-64a2-4cc1-b647-f53b1ec6d35d" "PDF - 1.8 MB" %}})
 
 ### Recommended readings
 
-World Health Organization and UNICEF. *Water for Life — Making It Happen*. New York, NY: World Health Organization and UNICEF, 2005. ISBN: 9789241562935. ([PDF - 1.9 MB](https://iris.who.int/bitstream/handle/10665/43224/9241562935.pdf?sequence=1&isAllowed=y))
+World Health Organization and UNICEF. *Water for Life — Making It Happen*. New York, NY: World Health Organization and UNICEF, 2005. ISBN: 9789241562935. ({{% resource_link "fe24480c-5180-451e-b7d1-6acf53a1a61c" "PDF - 1.9 MB" %}})
 
-Lenton, R., A. M. Wright, and K. Lewis. *Health, Dignity, and Development: What Will It Take?* New York, NY: United Nations Development Program, 2005. ISBN: 9781844072194. ([PDF - 1.7MB](http://www.unoosa.org/documents/pdf/psa/activities/2005/graz/watercomplete-lowres.pdf))
+Lenton, R., A. M. Wright, and K. Lewis. *Health, Dignity, and Development: What Will It Take?* New York, NY: United Nations Development Program, 2005. ISBN: 9781844072194. ({{% resource_link "aca77a2e-2f70-4031-9ba5-887461d47147" "PDF - 1.7MB" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -55,15 +55,15 @@ Guest lecture: Genevieve Connors, Urban Development Sector Unit, East Asia and P
 
 Connors, Genevieve. "When Utilities Muddle Through: Pro-poor Governance in Bangalore's Public Water Sector." *Environment and Urbanization* 17, no. 1 (2005): 201-218.
 
-Water and Sanitation Program. [*Connecting the Slums: A Utility's Approach in Bangalore*](https://wedc-knowledge.lboro.ac.uk/details.html?id=16859). New Delhi, India: Water Sanitation Programme South Asia, 2006.
+Water and Sanitation Program. {{% resource_link "11a76114-e378-44e4-9331-8bd564a32765" "*Connecting the Slums: A Utility's Approach in Bangalore*" %}}. New Delhi, India: Water Sanitation Programme South Asia, 2006.
 
 Cairncross, Sandy, and Richard Feachem. *Environmental Health Engineering in the Tropics: An Introductory Text*. Chichester, UK: John Wiley & Sons, 1993, chapter 1 and appendix C. ISBN: 9780471938859.
 
 Mara, Duncan. *Low Cost Urban Sanitation*. Chichester, UK: John Wiley & Sons, 1996, chapter 2. ISBN: 9780471961635.
 
-Esrey, S. A., R. G. Feachem, and J. M. Hughes. "Interventions for the Control of Diarrhoeal Diseases among Young Children: Improving Water Supplies and Excreta Disposal Facilities." *Bulletin of the World Health Organization* 63, no. 4 (1985): 757-772. ([PDF - 1.0 MB](http://whqlibdoc.who.int/bulletin/1985/Vol63-No4/bulletin_1985_63(4)_757-772.pdf))
+Esrey, S. A., R. G. Feachem, and J. M. Hughes. "Interventions for the Control of Diarrhoeal Diseases among Young Children: Improving Water Supplies and Excreta Disposal Facilities." *Bulletin of the World Health Organization* 63, no. 4 (1985): 757-772. ({{% resource_link "1e87313d-8041-4bf1-9e6f-98e1e250f886" "PDF - 1.0 MB" %}})
 
-Colford, John, Jr., and Lorna Fewtrell. "[Water, Sanitation and Hygiene: Interventions and Diarrhoea: A Systematic Review and Meta-analysis](http://www-wds.worldbank.org/external/default/main?pagePK=64193027&piPK=64187937&theSitePK=523679&menuPK=64187510&searchMenuPK=64187283&siteName=WDS&entityID=000090341_20060131093704)." Health, Nutrition and Population Discussion Paper, World Bank, 2004.
+Colford, John, Jr., and Lorna Fewtrell. "{{% resource_link "735a0ba0-16c8-4ec0-b357-807a78e6dc1c" "Water, Sanitation and Hygiene: Interventions and Diarrhoea: A Systematic Review and Meta-analysis" %}}." Health, Nutrition and Population Discussion Paper, World Bank, 2004.
 
 "Technical Brief No. 52: Water — Quality or Quantity?" *Waterlines* 22, no. 4 (2004): 15-18.
 
@@ -87,7 +87,7 @@ Sources of water and water supply planning
 
 MacDonald, Alan, Jeff Davies, Roger Calow, and John Chilton. *Developing Groundwater: A Guide for Rural Water Supply*. London, UK: ITDG Publishing, 2005, chapters 3 and 4. ISBN: 9781853395963.
 
-Howard, Guy, and Jamie Bartram. [*Domestic Water Quantity, Service Level and Health*](https://www.who.int/publications-detail-redirect/9789240015241). World Health Organization, 2003.
+Howard, Guy, and Jamie Bartram. {{% resource_link "cc821ef8-093a-42ee-bd04-2f5d09d8b0d6" "*Domestic Water Quantity, Service Level and Health*" %}}. World Health Organization, 2003.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -95,7 +95,7 @@ Howard, Guy, and Jamie Bartram. [*Domestic Water Quantity, Service Level and Hea
 Water quality and simple water quality field testing demo
 {{< tdclose >}}{{< tdopen >}}
 
-World Health Organization. [*Guidelines for Drinking-water Quality*](https://apps.who.int/iris/bitstream/handle/10665/44584/9789241548151_eng.pdf;jsessionid=A175A3E8046C43B02B202A1A571E15E7?sequence=1). 3rd edition, vol. 1. *Recommendations*. Geneva, Switzerland: World Health Organization, 2004, chapters 1, 2, 3, 4 and 7. ISBN: 9789241546386.
+World Health Organization. {{% resource_link "869cbdcd-db79-4ff3-bad4-549ef1b5b460" "*Guidelines for Drinking-water Quality*" %}}. 3rd edition, vol. 1. *Recommendations*. Geneva, Switzerland: World Health Organization, 2004, chapters 1, 2, 3, 4 and 7. ISBN: 9789241546386.
 
 Ngai, T., S. Murcott, R. Shrestha, B. Dangol, and M. Maharjan. "Development and Dissemination of Kanchan™ Arsenic Filter in Rural Nepal." *Water, Science and Technology: Water Supply* 6, no. 3 (2006): 137-146.
 
@@ -105,9 +105,9 @@ Ngai, T., S. Murcott, R. Shrestha, B. Dangol, and M. Maharjan. "Development and 
 Decentralized household water treatment and safe storage
 {{< tdclose >}}{{< tdopen >}}
 
-World Health Organization. [*Combating Waterborne Disease at the Household Level*](https://www.who.int/publications/i/item/9789241595223). Geneva, Switzerland: World Health Organization, 2007, ISBN: 978921595223.
+World Health Organization. {{% resource_link "abf8ce76-6818-4e26-8014-94cc7b87bdd8" "*Combating Waterborne Disease at the Household Level*" %}}. Geneva, Switzerland: World Health Organization, 2007, ISBN: 978921595223.
 
-Nath, K. J., S. Bloomfield, and M. Jones. *Household Water Storage, Handling and Point-of-use Treatment*. International Scientific Forum on Home Hygiene, 2006, pp. 5 and 24-29. ([PDF - 1.6 MB](http://www.ifh-homehygiene.org/2003/2library/low_res_water_paper.pdf))
+Nath, K. J., S. Bloomfield, and M. Jones. *Household Water Storage, Handling and Point-of-use Treatment*. International Scientific Forum on Home Hygiene, 2006, pp. 5 and 24-29. ({{% resource_link "4cd27b60-b455-49b7-b7c8-d84c05d9d270" "PDF - 1.6 MB" %}})
 
 Murcott, S. *Implementation, Critical Factors and Challenges to Scale-Up of Household Drinking Water Treatment and Safe Storage Systems*. Background Paper on Household Water Treatment and Safe Storage (HWTS), 2006. ({{% resource_link "2ea34b59-2321-0c3b-8c25-ca217affbde1" "PDF" %}}).
 
@@ -117,9 +117,9 @@ Clasen, Thomas, and Sandy Cairncross. "Editorial: Household Water Management: Re
 
 Wright, Jim, Stephen Gundry, and Ronan Conroy. "Household Drinking Water in Developing Countries: A Systematic Review of Microbiological Contamination between Source and Point-of-use." *Tropical Medicine and International Health* 9, no. 1 (2004): 106-117.
 
-Gundry, Stephen, Ronan Conroy, and Jim Wright. "A Systematic Review of the Health Outcomes Related to Household Water Quality in Developing Countries." *Journal of Water and Health* 2 (2004): 1-13. ([PDF](https://pdfs.semanticscholar.org/69d3/7965fb55c7589e6173c4e8be9a580ae2283e.pdf?_ga=2.186446188.475975581.1565631504-672817412.1563980296))
+Gundry, Stephen, Ronan Conroy, and Jim Wright. "A Systematic Review of the Health Outcomes Related to Household Water Quality in Developing Countries." *Journal of Water and Health* 2 (2004): 1-13. ({{% resource_link "81a97dfd-6b5f-4771-b7a5-dacca56465d0" "PDF" %}})
 
-Sobsey, Mark. [*Managing Water in the Home: Accelerated Health Gains from Improved Water Supply*. (PDF)](https://www.who.int/publications/i/item/WHO-SDE-WSH-02.07) World Health Organization, 2002.
+Sobsey, Mark. {{% resource_link "a8e6dd4f-5e1e-494a-b12c-ce65ddaeb4b4" "*Managing Water in the Home: Accelerated Health Gains from Improved Water Supply*. (PDF)" %}} World Health Organization, 2002.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
@@ -153,7 +153,7 @@ Budds, Jessica, and Gordon McGranahan. "Are the Debates on Water Privatization M
 
 Davis, J., et al. "Local Government: Kerala, India." In *Good Governance in the Water and Sanitation Sector: Experience from South Asia*. New Delhi, India: Water and Sanitation Program. 2001.
 
-NOTE: If you are unfamiliar with international aid agencies like the World Bank, you will also find the following Web sites useful: [The World Bank Group](http://www.worldbank.org/) (click on "About" in the top left corner); [The World Bank and International Monetary Fund](http://en.wikipedia.org/wiki/International_Monetary_Fund) (start with the Questions and Answers link).
+NOTE: If you are unfamiliar with international aid agencies like the World Bank, you will also find the following Web sites useful: {{% resource_link "e84aad16-22b4-418a-baa2-9350c6bdcf4e" "The World Bank Group" %}} (click on "About" in the top left corner); {{% resource_link "a8d1236b-9bf5-4c71-8d17-995382d76d27" "The World Bank and International Monetary Fund" %}} (start with the Questions and Answers link).
 
 ### Stakeholders
 
@@ -175,7 +175,7 @@ McPhail, A. "The 'Five Percent Rule' for Improved Water Service: Can Households 
 
 Birdsall, Nancy, and John Nellis. "Winners and Losers: Assessing the Distributional Impact of Privatization." *World Development* 31, no. 10 (2003): 1617-1633.
 
-Balanyá, Belén, Brid Brennan, Olivier Hoedeman, Satoko Kishimoto, and Philipp Terhorst. [*Reclaiming Public Water: Achievements, Struggles and Visions from Around the World*](http://www.tni.org/tnibook/reclaiming-public-water-2). Transnational Institute and Corporate Europe Observatory, 2005. ISBN: 9789071007101.
+Balanyá, Belén, Brid Brennan, Olivier Hoedeman, Satoko Kishimoto, and Philipp Terhorst. {{% resource_link "cecc5d1d-3310-419e-9c6b-6b8ac4b0580e" "*Reclaiming Public Water: Achievements, Struggles and Visions from Around the World*" %}}. Transnational Institute and Corporate Europe Observatory, 2005. ISBN: 9789071007101.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
@@ -213,7 +213,7 @@ Rogers, Peter, Ramesh Bhatia, and Annette Huber. "Water as a Social and Economic
 
 Cutler, David, and Grant Miller. "The Role of Public Health Improvements in Health Advances: The Twentieth-Century United States." *Demography* 42, no. 1 (2005): 1-22.
 
-Hutton, Guy, and Laurence Haller. "Evaluation of the Costs and Benefits of Water and Sanitation Improvements at the Global Level." Water, Sanitation, and Health, Protection of the Human Environment, World Health Organization, Geneva, 2004. ([PDF](https://iris.who.int/bitstream/handle/10665/68568/WHO_SDE_WSH_04.04.pdf?sequence=1&isAllowed=y))
+Hutton, Guy, and Laurence Haller. "Evaluation of the Costs and Benefits of Water and Sanitation Improvements at the Global Level." Water, Sanitation, and Health, Protection of the Human Environment, World Health Organization, Geneva, 2004. ({{% resource_link "50838ddd-0e47-4136-960d-73294696f21b" "PDF" %}})
 
 ## Recommended readings
 
@@ -251,12 +251,12 @@ Wrap-up
 
 ## {{< anchor "Other_Required_Readings" >}}{{< /anchor >}}Other Required Readings
 
-US AID Technical Notes (\[PDF\]([http://pdf.usaid.gov/pdf_docs/pbaab555.pdf](http://pdf.usaid.gov/pdf_docs/pbaab555.pdf)        
+US AID Technical Notes (\[PDF\]({{% resource_link "09a1f7bf-77fd-4385-a1d4-3c595dd4e29c" "http://pdf.usaid.gov/pdf_docs/pbaab555.pdf" %}}        
 )).
 
-[WELL Technical Briefs](http://www.lboro.ac.uk/orgs/well/resources/technical-briefs/).
+{{% resource_link "27b1d06e-6326-449b-8d66-1cc8b7d6b262" "WELL Technical Briefs" %}}.
 
-Solo, Tova Maria, Eduardo Perez, and Steven Joyce. Water and Sanitation for Health Project, WASH Technical Report No. 85: Constraints in Providing Water and Sanitation Services to the Urban Poor. Washington, DC: US Agency for International Development, 1993. ([PDF](http://pdf.usaid.gov/pdf_docs/pnabn953.pdf))
+Solo, Tova Maria, Eduardo Perez, and Steven Joyce. Water and Sanitation for Health Project, WASH Technical Report No. 85: Constraints in Providing Water and Sanitation Services to the Urban Poor. Washington, DC: US Agency for International Development, 1993. ({{% resource_link "3f1bc528-e932-45be-9b96-6fa00436cdb5" "PDF" %}})
 
 World Health Organization. *The Right to Water*. Geneva, Switzerland: World Health Organization, 2003. ISBN: 9789241590563.
 
@@ -312,13 +312,13 @@ Paul, Samuel. Community Participation in Development Projects: The World Bank Ex
 
 Water and Environmental Health at London and Loughborough (WELL). *Guidance Manual on Water Supply and Sanitation Programmes*. London, UK: Department for International Development, 1998.
 
-Cairncross, Sandy. "Why Promote Sanitation?" [*Water and Environmental Health at London and Loughborough (WELL)*](http://www.lboro.ac.uk/orgs/well/resources/fact-sheets/fact-sheets-htm/wps.htm), 1999.
+Cairncross, Sandy. "Why Promote Sanitation?" {{% resource_link "491c8b9b-ca3c-420f-97fe-d7224ee71e02" "*Water and Environmental Health at London and Loughborough (WELL)*" %}}, 1999.
 
-The World Bank. [*World Development Report 2004: Making Services Work for Poor People*](https://openknowledge.worldbank.org/bitstream/handle/10986/5986/WDR%202004%20-%20English.pdf?sequence=1&isAllowed=y). The World Bank, 2004. ISBN: 9780821354681.
+The World Bank. {{% resource_link "e38a307c-375f-4dfc-8a9a-941d8abf9205" "*World Development Report 2004: Making Services Work for Poor People*" %}}. The World Bank, 2004. ISBN: 9780821354681.
 
-———. [*World Development Report 1994: Infrastructure for Development*](http://www-wds.worldbank.org/external/default/main?pagePK=64193027&piPK=64187937&theSitePK=523679&menuPK=64187510&searchMenuPK=64187283&siteName=WDS&entityID=000009265_3970716142907). The World Bank, 1994. ISBN: 9780821325353.
+———. {{% resource_link "69de0511-dc57-4fa5-8717-7f554df2bade" "*World Development Report 1994: Infrastructure for Development*" %}}. The World Bank, 1994. ISBN: 9780821325353.
 
-———. [*World Development Report 1993: Investing in Health*](http://www-wds.worldbank.org/external/default/main?pagePK=64193027&piPK=64187937&theSitePK=523679&menuPK=64187510&searchMenuPK=64187283&siteName=WDS&entityID=000009265_3970716142319). The World Bank, 1993. ISBN: 9780195208900.
+———. {{% resource_link "77569125-e967-4348-acbe-1489191a7e48" "*World Development Report 1993: Investing in Health*" %}}. The World Bank, 1993. ISBN: 9780195208900.
 
 Shultz, C. R., and D. A. Okun. *Surface Water Treatment for Communities in Developing Countries*. London, UK: ITDG Publishing, 1992. ISBN: 9781853391422.
 
@@ -326,7 +326,7 @@ Gleick, Peter. *The World's Water 2004-2005: The Biennial Report on Freshwater R
 
 United Nations Human Settlements Program. *Water and Sanitation in the World's Cities: Local Action for Global Goals*. London, UK: Earthscan Publications Ltd, 2003. ISBN: 9781844070046.
 
-Esrey, Stephen, J. Gough, D. Rapaport, R. Sawyer, M. Simpson-Hebert, J. Vargas, and Uno Winblad, eds. *Ecological Sanitation*. Stockholm, Sweden: Swedish International Development Cooperation Agency (SIDA), 1998. ISBN: 9158676120. ([PDF](http://www.ecosanres.org/pdf_files/Ecological_Sanitation.pdf))
+Esrey, Stephen, J. Gough, D. Rapaport, R. Sawyer, M. Simpson-Hebert, J. Vargas, and Uno Winblad, eds. *Ecological Sanitation*. Stockholm, Sweden: Swedish International Development Cooperation Agency (SIDA), 1998. ISBN: 9158676120. ({{% resource_link "1fdfdd72-3068-4970-85f7-e05c32e627db" "PDF" %}})
 
 Reed, Robert A. *Sustainable Sewerage: Guidelines for Community Schemes*. London, UK: Intermediate Technology in Association with the Water, Engineering and Development Centre, 1995. ISBN: 9781853393051.
 

@@ -19,7 +19,7 @@ Participation
 Tech Tutorials
 --------------
 
-Using source material from USAID Technical Notes ([PDF](http://pdf.usaid.gov/pdf_docs/pbaab555.pdf)), [WELL Technical Briefs](https://www.lboro.ac.uk/orgs/well/resources/technical-briefs/technical-briefs.htm), the Field Guide to Appropriate Technology, or other sources of comparable content and quality, students, in teams of 2, shall give a 10-minute tutorial to the class on a selected practice area or technology. Each student shall give one tutorial during the semester. (Note: No powerpoint or other electronic media are allowed in the tech tutorials. Use the chalkboard or other simple, manual, visual aids that might be available in a developing country village or neighborhood.)
+Using source material from USAID Technical Notes ({{% resource_link "09a1f7bf-77fd-4385-a1d4-3c595dd4e29c" "PDF" %}}), {{% resource_link "c9985b19-b9e1-4381-beb3-c715805b243d" "WELL Technical Briefs" %}}, the Field Guide to Appropriate Technology, or other sources of comparable content and quality, students, in teams of 2, shall give a 10-minute tutorial to the class on a selected practice area or technology. Each student shall give one tutorial during the semester. (Note: No powerpoint or other electronic media are allowed in the tech tutorials. Use the chalkboard or other simple, manual, visual aids that might be available in a developing country village or neighborhood.)
 
 Quizzes
 -------
