@@ -6,6 +6,8 @@ description: Lecture presentation on a utility's pro-poor approach in Bangalore'
 file: /courses/11-479j-water-and-sanitation-infrastructure-in-developing-countries-spring-2007/da7d1195d3352c2bea55d9110a22d613_lect3.pdf
 file_size: 3913267
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

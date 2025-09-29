@@ -5,6 +5,8 @@ description: Lecture presentation on decentralized household water treatment and
 file: /courses/11-479j-water-and-sanitation-infrastructure-in-developing-countries-spring-2007/88976abfd7d412dba766d4f76c0d11e0_lect7.pdf
 file_size: 5656936
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

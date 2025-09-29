@@ -7,6 +7,8 @@ description: Assignment to develop a policy memo detailing a strategy to reduce 
 file: /courses/11-479j-water-and-sanitation-infrastructure-in-developing-countries-spring-2007/b6385c91bd4bfec2a87e9466cc8e2e6c_memo1.pdf
 file_size: 221755
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

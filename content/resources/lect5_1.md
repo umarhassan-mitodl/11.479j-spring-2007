@@ -5,6 +5,8 @@ description: Lecture presentation on sources of water, both improved and unimpro
 file: /courses/11-479j-water-and-sanitation-infrastructure-in-developing-countries-spring-2007/348edf66c7b689ceaf8d5729f0f8b891_lect5_1.pdf
 file_size: 6879697
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

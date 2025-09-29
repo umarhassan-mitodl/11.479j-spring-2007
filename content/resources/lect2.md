@@ -6,6 +6,8 @@ description: Lecture presentation with an introduction to water and sanitation i
 file: /courses/11-479j-water-and-sanitation-infrastructure-in-developing-countries-spring-2007/6dcb421460278e8737f0559c801f452f_lect2.pdf
 file_size: 2915478
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
