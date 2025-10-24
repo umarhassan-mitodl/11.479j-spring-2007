@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides information on class participation, tech tutorials,
   quizzes, policy memos assignments, the midterm essay, and the final paper.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

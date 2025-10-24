@@ -5,8 +5,6 @@ description: This reading assignment provides a tutorial on economics, microecon
 file: /courses/11-479j-water-and-sanitation-infrastructure-in-developing-countries-spring-2007/8f08bcb630766def3b8f6c064bd40bc6_micro_tutorial.pdf
 file_size: 39765
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

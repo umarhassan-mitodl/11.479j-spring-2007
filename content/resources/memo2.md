@@ -6,8 +6,6 @@ description: Assignment to write a memo on either a real-life case with which yo
 file: /courses/11-479j-water-and-sanitation-infrastructure-in-developing-countries-spring-2007/597bc0291640a2c5dbc70ca35efd8781_memo2.pdf
 file_size: 36389
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

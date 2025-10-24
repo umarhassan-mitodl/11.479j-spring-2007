@@ -5,8 +5,6 @@ description: Lecture presentation on on-site excreta disposal by guest lecturer 
 file: /courses/11-479j-water-and-sanitation-infrastructure-in-developing-countries-spring-2007/846dec43a9fca9f21f8aa44b0064692a_lect12.pdf
 file_size: 5691154
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

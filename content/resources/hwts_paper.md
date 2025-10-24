@@ -7,8 +7,6 @@ description: Background Paper on Household Water Treatment and Safe Storage (HWT
 file: /courses/11-479j-water-and-sanitation-infrastructure-in-developing-countries-spring-2007/2ea34b5923210c3b8c25ca217affbde1_hwts_paper.pdf
 file_size: 289433
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

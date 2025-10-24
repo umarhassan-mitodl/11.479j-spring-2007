@@ -4,8 +4,6 @@ description: Lecture presentation on water and sanitation planning.
 file: /courses/11-479j-water-and-sanitation-infrastructure-in-developing-countries-spring-2007/0a43990d4f6e369497a354a3732dcb0e_lect5_2.pdf
 file_size: 4041130
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
